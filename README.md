@@ -1,12 +1,23 @@
 # SocioVerse
 This is the official repository for the paper 🚀***SocioVerse**: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users*. [\[📝 Paper\]](https://arxiv.org/abs/2504.10157)
 
-- Welcome to try our demo here [\[✡️ Demo\]](http://www.fudan-disc.com/socioverse/).
-- You can download the user pool here [\[🤗 User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything).
+### ✡️ Welcome to try our demo!
+Try SocioVerse Demo here. 👉 [http://www.fudan-disc.com/socioverse/](http://www.fudan-disc.com/socioverse/).
 
+You can customize diverse target user groups, design questions, and check simulation results with a detailed report!
+
+### 🤗 Release of part of the user pool!
+You can download the user pool here [\[ User Pool\]](https://huggingface.co/datasets/Lishi0905/SimulateAnything).
+
+### Repo Contents
+- All the simulation questionnaires for three scenarios;
+- Evaluation scripts and metrics;
+- Code for the World Model SocioVerse (coming soon)
+
+### An Example of the Alignment Process
 ![framework](./assets/framework.png)
 
-### 🌟Contributions
+### 🌟 Contributions
 - 🚀***SocioVerse***: a world model for social simulation comprising four powerful alignment modules；
 - A pool of **10 million** real-world users;
 - **Three** illustrative simulation scenarios:
